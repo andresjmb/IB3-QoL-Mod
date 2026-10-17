@@ -2,6 +2,8 @@
 
 Small quality-of-life mod for the Infinity Blade III PC port (v1.0.0).
 
+[![Download dinput8.dll](https://img.shields.io/badge/DOWNLOAD-dinput8.dll-2ea44f?style=for-the-badge)](https://github.com/andresjmb/IB3-QoL-Mod/raw/main/dinput8.dll)
+
 ## Features
 
 - **World map:** every place shows **NEW**, **VISITED** or **COMPLETED**, and the level you need if yours is too low. **LOCATIONS** button with the full list. Mouse wheel zoom.
@@ -14,7 +16,7 @@ Small quality-of-life mod for the Infinity Blade III PC port (v1.0.0).
 
 ## Install
 
-1. Download **`dinput8.dll`** (above).
+1. Download **`dinput8.dll`** with the green button above.
 2. Put it in `InfinityBlade3_v1.0.0\Binaries\Win64` (next to `IB3.exe`).
 3. Play.
 
