@@ -2,7 +2,7 @@
 
 Small unofficial quality-of-life mod for the Infinity Blade III PC port (v1.0.0).
 
-[![Download dinput8.dll](https://img.shields.io/badge/DOWNLOAD-dinput8.dll-2ea44f?style=for-the-badge)](https://github.com/andresjmb/IB3-QoL-Mod/raw/main/dinput8.dll)
+[![Download dinput8.dll](https://img.shields.io/badge/DOWNLOAD-dinput8.dll-2ea44f?style=for-the-badge)](https://github.com/andresjmb/IB3-QoL-Mod/releases/latest/download/dinput8.dll)
 
 ## Features
 
