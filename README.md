@@ -12,12 +12,15 @@ Small unofficial quality-of-life mod for the Infinity Blade III PC port (v1.0.0)
 - **Gem Cutter & Potion Master:** **RECIPES** button with every recipe, using the game's icons. Click a result to see what it does. The Potion Master also lists the wiki's potion mixes with their odds, and what each ingredient is good for.
 - **Restart any fight mid game, including the ones the game normally won't let you restart (super bosses, story fights):** hold **R** for 0.7 s during the fight or on the defeat screen. The pause menu's "Restart Battle" and the defeat screen's "Replay" are always available too.
 - **Sword clash taps on the keyboard:** when blades lock in a parry clash and the game asks you to tap fast, press **F** or **Numpad 5** instead of clicking. These keys do nothing at any other moment.
+- **Weapon combo in battle:** your weapon's special combo (the same COMBO arrows the pause menu shows) stays on screen during fights, just right of the block button.
 - **Specific weapon combos (bug fix):** some weapons, like Snikt, have combos with diagonal arrows that almost never registered. The game only accepts the flat diagonal for each step, so a slightly steeper swipe counted as up or down, and Numpad 7 / Numpad 3 could never do the up-left / down-right steps. Now a diagonal step also accepts the steeper diagonal next to it; straight steps work as before.
 - **QoL settings in the game:** Options → **QoL** turns each feature on or off.
 
 ![World map](screenshots/map.jpg)
 
 ![The ! marks the door and the chest you haven't taken yet](screenshots/unvisited.jpg)
+
+![The weapon's combo next to the block button during a fight](screenshots/combo-hud.jpg)
 
 ![Recipes in the Fusion Chamber](screenshots/recipes-gems.jpg)
 
