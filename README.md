@@ -2,7 +2,7 @@
 
 QoL Mod for Infinity Blade III. Compatible with the Community Patch.
 
-[![Download dinput8.dll](https://img.shields.io/badge/DOWNLOAD-dinput8.dll-2ea44f?style=for-the-badge)](https://github.com/andresjmb/IB3-QoL-Mod/releases/latest/download/dinput8.dll)
+[![Download dinput8.dll](https://img.shields.io/badge/DOWNLOAD-dinput8.dll-2ea44f?style=for-the-badge)](https://github.com/andresjmb/IB3-QoL-Mod/releases/latest/download/dinput8.dll) [![Downloads](https://img.shields.io/github/downloads/andresjmb/IB3-QoL-Mod/total?style=for-the-badge&label=DOWNLOADS&color=007ec6)](https://github.com/andresjmb/IB3-QoL-Mod/releases)
 
 ## Install
 
