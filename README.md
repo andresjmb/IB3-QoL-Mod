@@ -33,7 +33,7 @@ To uninstall, delete `dinput8.dll` (and the `IB3QoL` files it creates next to it
 
   ![The ! marks the door and the chest you haven't taken yet](screenshots/unvisited.jpg)
 
-- **Gem Cutter & Potion Master:** I didn't want to keep going online to look up how to make each recipe, so now it's all in the game: a **RECIPES** button with every recipe, using the game's icons. It covers rare gems and their level-ups, the rare defense gem (5% to 100%), Great Parry, Boss Boost and the Rare Darkfire gem's level-up. Click a result to see what it does. The Potion Master also lists the wiki's potion mixes with their odds, and what each ingredient is good for.
+- **Gem Cutter & Potion Master:** I didn't want to keep going online to look up how to make each recipe, so now it's all in the game: a **RECIPES** button with every recipe, using the game's icons. It covers rare gems and their level-ups, the rare defense gem (5% to 100%), Great Parry, Titan LVL and the Rare Darkfire gem's level-up, plus the rare gems no recipe makes and where to find them. Click a result to see what it does, with the game's own names and numbers. The Potion Master also lists the wiki's potion mixes with their odds, and what each ingredient is good for.
 
   ![Recipes in the Fusion Chamber and at the Potion Master](screenshots/recipes.jpg)
 
