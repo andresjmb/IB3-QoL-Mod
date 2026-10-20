@@ -45,7 +45,9 @@ To uninstall, delete `dinput8.dll` (and the `IB3QoL` files it creates next to it
 
   ![Gear XP next to the character in the pause menu](screenshots/gear-xp.jpg)
 
-- **Shared skills:** **LOCK PICK II**, **LOCK PICK III** (Isa) and **INGREDIENT PLUS** (Siris) work for both characters once the character they belong to has unlocked them.
+- **Shared skills:** **LOCK PICK II**, **LOCK PICK III** (Isa) and **INGREDIENT PLUS** (Siris) work for both characters once the character they belong to has unlocked them. Their description in the skill tree names both characters.
+
+  ![LOCK PICK II now names both Isa and Siris](screenshots/shared-skills.jpg)
 
 - **Sword clash taps on the keyboard:** when blades lock in a parry clash and the game asks you to tap fast, press **F** or **Numpad 5** instead of clicking. Outside a clash the mod does nothing with them (F keeps the game's own weak-point stab).
 
