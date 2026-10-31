@@ -66,15 +66,17 @@ QoL Mod for Infinity Blade III. Compatible with the Community Patch. Everything 
 
 **14. Diagonal combos fixed.** Some weapon combos have diagonal steps, like up-left (Snikt has them). The game only counted a fairly flat diagonal swipe, so a steeper one counted as straight up or down and broke the combo. Now steeper diagonals count too, and with the default keys Numpad 7 and Numpad 3 work for those steps as well.
 
-**15. Fast forward the mastered and level up animations.** Click, or hold **Left Shift** (the game's own fast-forward key). Left Shift also fast-forwards the battle results. Your stat points and XP are already given, only the animation is skipped.
+**15. Boss battle themes fixed.** Some bosses have their own battle theme, but the game only plays it the first time and then never again. Now the Collector, Lelindre and Ausar get theirs in every fight, and Therin gets the Arena theme. The dragon theme also stays in dragon fights instead of now and then playing in a normal one.
 
-**16. Buy a mastery and stay in ITEMS.** Buying a mastery with chips (the chips button on the XP bar) plays MASTERED right there and leaves you in ITEMS, on the same tab and item, instead of sending you to the skills page.
+**16. Fast forward the mastered and level up animations.** Click, or hold **Left Shift** (the game's own fast-forward key). Left Shift also fast-forwards the battle results. Your stat points and XP are already given, only the animation is skipped.
 
-**17. The gem bag keeps its order.** Each gem stays in the slot you put it in, in ITEMS and at the Gem Cutter, instead of the game sorting the bag by value every time it opens.
+**17. Buy a mastery and stay in ITEMS.** Buying a mastery with chips (the chips button on the XP bar) plays MASTERED right there and leaves you in ITEMS, on the same tab and item, instead of sending you to the skills page.
 
-**18. Instant Blacksmith, Gem Fusion and Potion Master.** Whatever you put in the Blacksmith's forge, the Potion Master's cauldron or the Gem Cutter is ready right away (you still pay for it). The **UPGRADE** button at the Blacksmith levels the item up on the spot, even gear you're wearing, and keeps you in the same list. If the forge is full, finished items are picked up first to make room. The mouse wheel scrolls the Blacksmith's list too.
+**18. The gem bag keeps its order.** Each gem stays in the slot you put it in, in ITEMS and at the Gem Cutter, instead of the game sorting the bag by value every time it opens.
 
-**19. Updates from inside the game.** The top row of Options → QoL (MOD) shows your version. Each time the game starts, the mod asks GitHub if there's a newer one. Nothing downloads until you tap that row and say yes; the new version then starts the next time you open the game (the old one stays next to it as `dinput8.dll.old`). If you don't want the mod to go online, turn off **Check for Updates** and it never connects to the internet.
+**19. Instant Blacksmith, Gem Fusion and Potion Master.** Whatever you put in the Blacksmith's forge, the Potion Master's cauldron or the Gem Cutter is ready right away (you still pay for it). The **UPGRADE** button at the Blacksmith levels the item up on the spot, even gear you're wearing, and keeps you in the same list. If the forge is full, finished items are picked up first to make room. The mouse wheel scrolls the Blacksmith's list too.
+
+**20. Updates from inside the game.** The top row of Options → QoL (MOD) shows your version. Each time the game starts, the mod asks GitHub if there's a newer one. Nothing downloads until you tap that row and say yes; the new version then starts the next time you open the game (the old one stays next to it as `dinput8.dll.old`). If you don't want the mod to go online, turn off **Check for Updates** and it never connects to the internet.
 
 **Crash-proof for future game versions.** I think :P
 
